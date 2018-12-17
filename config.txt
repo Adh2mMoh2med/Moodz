@@ -1,6 +1,5 @@
-token=NTIwMzc4MTgzNjE5NzA2ODgw.Dus_nw.-ylzPEKDiPJDYQ2Su3GllLj4G9Q
+token=NTIwMzE2OTQzMjY2NDgwMTU5.DusP4A.tJH1H5RPbuWppnVQB7oTglVG7zo
 owner=502748478267719681
-prefix=1
-game=Chanel.Play | 1
+prefix=A
 stayinchannel=true
 songinstatus=false
